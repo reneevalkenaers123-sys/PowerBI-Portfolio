@@ -17,3 +17,7 @@ Power BI transforms raw data into visual business insights.
 ## Hands-on Result
 
 Built first project: Sales Dashboard V1
+
+## Day 1 Result
+
+![Day 1 Dashboard](day1-dashboard.png)
