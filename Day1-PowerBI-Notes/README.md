@@ -20,4 +20,4 @@ Built first project: Sales Dashboard V1
 
 ## Day 1 Result
 
-![Day 1 Dashboard](Sales-Dashboard-V1.png)
+![Day 1 Dashboard](../Sales-Dashboard-V1/Sales-Dashboard-V1.png)
