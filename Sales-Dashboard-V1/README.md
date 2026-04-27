@@ -30,4 +30,6 @@ This report analyzes:
 - Dashboard layout
 - Business insight reporting
 
-Screenshot coming soon.
+## Dashboard Preview
+
+![Sales Dashboard](Sales-Dashboard-V1.png)
