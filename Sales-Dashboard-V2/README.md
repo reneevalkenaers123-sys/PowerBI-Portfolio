@@ -18,3 +18,8 @@ Interactive Power BI dashboard using slicers, KPI cards and category analysis.
 ## Preview
 
 ![Dashboard](Sales-Dashboard-V2.png)
+
+## Learning Outcome
+
+Built a cleaner dashboard layout using slicers, KPI cards and visual storytelling principles.
+
